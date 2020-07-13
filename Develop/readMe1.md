@@ -1,12 +1,24 @@
-# Project Title: readme gen
-  ## Project Description: generates readmes
-  ## Installation instructions: download node and inquirer 
-  ## Usage instructions: answer prompted questions
-  ## Contribution Guidelines: send me feedback through email
-  ## Test: n/a
+# Project Title: README Generator
+
+  ## Project Description: 
+  generates readme for users by answering prompted questions
+
+  ## Installation instructions: 
+  download node and inquirer 
+
+  ## Usage instructions: 
+  answer prompted questions
+
+  ## Contribution Guidelines: 
+  email feedback
+
+  ## Test: 
+  n/a
+
   ## License: c
+
   ## Questions:
-  - Github: user
+  - Github: username
   - Email: hello@gmail.com
 
 
