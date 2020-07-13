@@ -1,25 +1,26 @@
-# Project Title: README Generator
+# Project Title: README GENERATOR
 
   ## Project Description: 
-  generates readme for users by answering prompted questions
+  generates readme for user projects
 
   ## Installation instructions: 
-  download node and inquirer 
+  download node and inquirer
 
   ## Usage instructions: 
   answer prompted questions
 
   ## Contribution Guidelines: 
-  email feedback
+  email me feedback 
 
   ## Test: 
   n/a
 
-  ## License: c
+  ## License: d
 
   ## Questions:
-  - Github: username
-  - Email: hello@gmail.com
+  - Github username: kan004
+  - Github link: https://github.com/kan004
+  - Email: kan@gmail.com
 
 
   
