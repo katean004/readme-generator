@@ -39,7 +39,7 @@ const questions = [
         type:"list",
         name:"license",
         message:"Which license does your application need?",
-        choices: ["a","b","c","d"]
+        choices: ["MIT","Apache","GNU GPLv3","ISC"]
     },
     {
         type:"input",
@@ -69,8 +69,6 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
-
-
 
     inquirer.prompt(questions).then(function(answers){
         console.log(answers);

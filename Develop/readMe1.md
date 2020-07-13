@@ -12,27 +12,26 @@
   - [Questions](#questions)
 
   ## Description: 
-  helps users generate README for their projects
+  generates readme for user projects
 
   ## Installation: 
   install node and inquirer
 
   ## Usage: 
-  answer the prompted questions
+  answer prompted questions
 
   ## Contribution: 
-  Email me feedback and suggestions
+  email me feedback
 
   ## Test: 
   n/a
 
   ## License: 
-  d
+  MIT License
 
   ## Questions:
-  - Github username: kan004
-  - Github link: https://github.com/kan004
-  - Email: kan@gmail.com
+  - Github: https://github.com/kan004
+  - Email: test@gmail.com
 
 
   
