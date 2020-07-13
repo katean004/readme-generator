@@ -1,5 +1,21 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
+  let license = "";
+  const mit = 'MIT License';
+  const apache = 'Apache License 2.0';
+  const gnu = 'GNU General Public License v3.0';
+  const isc = 'ISC License';
+
+  if(data.license = "MIT"){
+    license = mit;
+  }else if(data.license = "Apache"){
+    license = apache;
+  }else if(data.license = "GNU GPLv3"){
+    license = gnu;
+  }else if(data.license = "ISC"){
+    license = isc;
+  }
+
   return `
 
   # Title: ${data.title}
@@ -29,11 +45,10 @@ function generateMarkdown(data) {
   ${data.test}
 
   ## License: 
-  ${data.license}
+  ${license}
 
   ## Questions:
-  - Github username: ${data.github}
-  - Github link: https://github.com/${data.github}
+  - Github: https://github.com/${data.github}
   - Email: ${data.email}
 
 
@@ -41,3 +56,4 @@ function generateMarkdown(data) {
 }
 
 module.exports = generateMarkdown;
+
