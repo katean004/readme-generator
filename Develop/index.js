@@ -1,19 +1,56 @@
+// require npm and file
 const inquirer = require("inquirer")
 const fs= require("fs")
 const generateMarkdown = require("./utils/generateMarkdown")
 
-// array of questions for user
+// Array of questions for user
 const questions = [
     {
         type:"input",
         name:"title",
-        message:"What's your name?"
+        message:"What is the title of your project?"
     },
     {
         type:"input",
-        name:"LastName",
-        message:"What's your last name?"
-    }
+        name:"description",
+        message:"What is the description of your project?"
+    },
+    {
+        type:"input",
+        name:"installation",
+        message:"What are the instructions to install your application?"
+    },
+    {
+        type:"input",
+        name:"usage",
+        message:"How to use your application?"
+    },
+    {
+        type:"input",
+        name:"contribution",
+        message:"How can people make contributions to your application?"
+    },
+    {
+        type:"input",
+        name:"test",
+        message:"How to make a test?"
+    },
+    {
+        type:"list",
+        name:"license",
+        message:"Which license does your application need?",
+        choices: ["a","b","c","d"]
+    },
+    {
+        type:"input",
+        name:"github",
+        message:"What is your Github username?"
+    },
+    {
+        type:"input",
+        name:"email",
+        message:"What is your email address?"
+    },
 ];
 
 // function to write README file

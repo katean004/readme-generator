@@ -1,3 +1,3 @@
-# my name is : Aslan
-  # my last name is Ghodsian
+# my name is : Kate
+  # my last name is Boba
 
