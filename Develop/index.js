@@ -33,7 +33,7 @@ const questions = [
     {
         type:"input",
         name:"test",
-        message:"How to make a test?"
+        message:"What command will run your test?"
     },
     {
         type:"list",
