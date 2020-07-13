@@ -937,7 +937,7 @@ Public License instead of this License.  But first, please read
 
   return `
 
-  # Title: ${data.title}
+  # ${data.title}
   ${badge}
 
   ## Table of Contents
@@ -949,25 +949,25 @@ Public License instead of this License.  But first, please read
   - [License](#license)
   - [Questions](#questions)
 
-  ## Description: 
+  ## Description
   ${data.description}
 
-  ## Installation: 
+  ## Installation
   ${data.installation}
 
-  ## Usage: 
+  ## Usage
   ${data.usage}
 
-  ## Contribution: 
+  ## Contribution
   ${data.contribution}
 
-  ## Test: 
+  ## Test
   ${data.test}
 
-  ## License: 
+  ## License
   ${license}
 
-  ## Questions:
+  ## Questions
   - Github: https://github.com/${data.github}
   - Email: ${data.email}
 
