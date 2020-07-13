@@ -1,6 +1,7 @@
 
 
   # Title: title
+  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
   ## Table of Contents
   - [Description](#description)
@@ -18,7 +19,7 @@
   install
 
   ## Usage: 
-  use app
+  use
 
   ## Contribution: 
   feedback
