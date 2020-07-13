@@ -1,33 +1,33 @@
 
-  # Table of Contents
-  [Description](#description)
-  [Installation](#installation)
-  [Usage](#usage)
-  [Contribution](#contribution)
-  [Test](#test)
-  [License](#license)
-  [Questions](#questions)
 
-  
-  # Project Title: README Generator
+  # Title: README GENERATOR
+
+  ## Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contribution](#contribution)
+  - [Test](#test)
+  - [License](#license)
+  - [Questions](#questions)
 
   ## Description: 
-  generates readme for users
+  helps users generate README for their projects
 
   ## Installation: 
   install node and inquirer
 
   ## Usage: 
-  answer prompted questions
+  answer the prompted questions
 
   ## Contribution: 
-  Email me feedback
+  Email me feedback and suggestions
 
   ## Test: 
   n/a
 
   ## License: 
-  c
+  d
 
   ## Questions:
   - Github username: kan004
