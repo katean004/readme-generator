@@ -1,7 +1,7 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-  var license;
-  var badge;
+  let license;
+  let badge;
 
   const mit = `MIT License
 
