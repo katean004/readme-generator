@@ -8,7 +8,7 @@
   - [Usage](#usage)
 
 ## Walkthrough Video
-- link: 
+- link: https://drive.google.com/file/d/1BF6dg5Ji4rmoABiF5tHWNRgkfjUiO3cd/view
 
 ## Description
 A CLI that prompts users for information about their project to generate a README that includes title, description, table of contents, installation instructions, usage, license, contribution guidelines, test instructions, and questions. 

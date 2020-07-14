@@ -1,6 +1,6 @@
 
 
-  # README-Generator
+  # README Generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
@@ -13,16 +13,16 @@
   - [Questions](#questions)
 
   ## Description
-  Helps users easily generate a README
+  A CLI that generates a README for user projects
 
   ## Installation
-  Install node and inquirer npm
+  install node and inquirer
 
   ## Usage
-  Answer prompted questions
+  node index.js in terminal
 
   ## Contribution
-  Provide feedback and or suggestions via Email
+  Email feedback
 
   ## Test
   node index.js
@@ -52,7 +52,7 @@
 
   ## Questions
   - Github: https://github.com/kan
-  - Email: kan@gmail.com
+  - Email: test@gmail.com
 
 
   
